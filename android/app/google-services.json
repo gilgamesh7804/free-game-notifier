@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208387069844",
+    "project_id": "free-games-notifier-993f9",
+    "storage_bucket": "free-games-notifier-993f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208387069844:android:dded3231288da16e102181",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVfarzdnS9V9Im6tHEUAvtdEgEKm5PTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
