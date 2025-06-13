@@ -1,16 +1,23 @@
-# flutter_application_1
+### 🎮 Free Game Notifier
 
-A new Flutter project.
+```markdown
+# 🆓 Free Game Notifier
 
-## Getting Started
+Never miss a free game again! This Flutter app notifies users when games become free on platforms like Epic Games Store or Steam.
 
-This project is a starting point for a Flutter application.
+## 🧠 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🆓 Tracks and displays free games
+- 🔔 Sends notifications when new free games are available
+- 🌙 Dark mode support
+- 🔗 Click to open game offer pages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔍 Backend Integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uses a Python script or REST API (planned or implemented) to scrape and send FCM notifications via Firebase.
+
+## 🛠️ How to Run
+
+```bash
+flutter pub get
+flutter run
